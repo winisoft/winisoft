@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
-This is the personal repository of Steve M, known as a free agent by the moniker winisoft.
+This is code by wini.
 
-Imminently, I'll be updating this content to serve a curated overview of the repositories I have hosted here on GitHub.
+If you don't see links to content here, I have been irresponsible.
 
 Please hold.
 
